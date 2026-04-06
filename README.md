@@ -2,27 +2,27 @@
 
 Backend & DevOps Engineer building production APIs, payment systems, and cloud infrastructure.
 
-Currently engineering across **3 companies** and **2 SaaS products** simultaneously — NestJS and Laravel in production daily, not on weekends.
+Currently engineering across **2 companies** and **2 SaaS products** simultaneously, NestJS and Laravel in production daily, not on weekends.
 
 ---
 
 ### What I Build
 
-**Backend Systems** — REST APIs in NestJS (TypeScript) and Laravel (PHP). Payment pipelines, authentication, webhook processing, subscription billing, AI integrations, and PDF generation engines.
+**Backend Systems**: REST APIs in NestJS (TypeScript) and Laravel (PHP). Payment pipelines, authentication, webhook processing, subscription billing, AI integrations, and PDF generation engines.
 
-**Database Architecture** — MongoDB (Mongoose), PostgreSQL (Prisma, TypeORM), MySQL (TypeORM, Eloquent). I architect for whichever database fits the problem.
+**Database Architecture**: MongoDB (Mongoose), PostgreSQL (Prisma, TypeORM), MySQL (TypeORM, Eloquent). I architect for whichever database fits the problem.
 
-**DevOps & Infrastructure** — Docker, GitHub Actions CI/CD, Azure App Services, AWS (EC2, S3), Digital Ocean, Nginx, VPS management, server hardening.
+**DevOps & Infrastructure**: Docker, GitHub Actions for CI/CD, Azure App Services, AWS (EC2, S3), DigitalOcean, Nginx, VPS management, server hardening.
 
 ---
 
 ### Live Products (ShotNub Solutions)
 
-🔹 **[AppliTrack](https://applitrack.shotnubsolutions.com)** — AI resume engine. Paste a job description → get a tailored, ATS-optimized CV in seconds. NestJS + MongoDB + OpenAI + Puppeteer PDF engine. Credit-based billing with Paystack webhooks and atomic rollback on AI failure.
+🔹 **[AppliTrack](https://applitrack.shotnubsolutions.com)**: AI resume engine. Paste a job description → get a tailored, ATS-optimized CV in seconds. NestJS + MongoDB + OpenAI + Puppeteer PDF engine. Credit-based billing with Paystack webhooks and atomic rollback on AI failure.
 
-🔹 **[SpendNub](https://spendnub.shotnubsolutions.com)** — Financial ledger engine. Automatic income splitting into budget categories using a double-entry ledger with MongoDB atomic `$inc` operations. Rolling balance logic, spend forecasting, cron-based month-end rollover, and subscription billing.
+🔹 **[SpendNub](https://spendnub.shotnubsolutions.com)**: Financial ledger engine. Automatic income splitting into budget categories using a double-entry ledger with MongoDB atomic `$inc` operations. Rolling balance logic, spend forecasting, cron-based month-end rollover, and subscription billing.
 
-🔹 **[ShotNub Solutions](https://shotnubsolutions.com)** — The company behind both products.
+🔹 **[ShotNub Solutions](https://shotnubsolutions.com)**: The company behind both products.
 
 ---
 
